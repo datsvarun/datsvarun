@@ -5,10 +5,6 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- bhai dekho baat aisi hai koi ye padhne wala hai nahi. koi padh raha hai toh hi hello!
-- coding seekh raha hu. maja kar raha hu. baat karni ho toh dm kare.
-- milna ho toh pm kare.
-- bye
 
 <!---
 datsvarun/datsvarun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
